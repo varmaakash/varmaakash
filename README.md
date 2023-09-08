@@ -2,7 +2,7 @@
 
 Hello, I'm Akash k Varma, a passionate data analyst with a strong aspiration to become a data scientist. I have a deep fascination for uncovering hidden insights within 
 data and turning them into actionable solutions. My journey in the world of data began with when I joined "National Highways Authority of India" as a "IT Engineer", where my 
-work is basically regarding Data Mining, Data collection, Cleaning, Preprocessing, Visualisation,  Statistical analysis for providing actionable insights to the department. 
+work is basically regarding Data Mining, Data collection, Cleaning, Preprocessing, Visualisation & Statistical analysis for providing actionable insights to the department. 
 My journey led me to specialize in data analytics. I delved into the art of collecting, cleaning, and transforming data into valuable information. I discovered that this
 was the foundation upon which AI's decision-making capabilities were built.As an aspiring data scientist, I'm dedicated to shaping this future. I believe that the fusion
 of data and AI holds the key to a world where decisions are not just easier but also more informed, efficient, and equitable. 
